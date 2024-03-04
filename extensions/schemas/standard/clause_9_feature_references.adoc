@@ -2,7 +2,7 @@
 [#rc_{req-class}]
 == Requirements Class "Feature references"
 
-The Requirements Class "Feature references" specifies additional provisons for properties that reference another feature.
+The Requirements Class "Feature references" specifies additional provisions for properties that reference another feature.
 
 NOTE: We can probably generalize this requirements class to cover also other types of references, but this requires a better understanding about the types of references that have to be supported.
 
